@@ -1,5 +1,5 @@
 # leons62.github.io
 
-Leon Stesin:
+Leon Stesin
 
 LS-Company: https://leons62.github.io/
